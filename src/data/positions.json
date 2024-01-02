@@ -1,0 +1,228 @@
+{
+  "ST": {
+    "name": "Striker",
+    "roles": [
+      "deep_lying_forward_at",
+      "deep_lying_forward_su",
+      "advanced_forward_at",
+      "target_man_at",
+      "target_man_su",
+      "poacher_at",
+      "complete_forward_at",
+      "complete_forward_su",
+      "pressing_forward_at",
+      "pressing_forward_su",
+      "pressing_forward_de",
+      "trequartista_at",
+      "false_nine_su"
+    ]
+  },
+  "AML": {
+    "name": "Attacking Midfielder Left",
+    "roles": [
+      "winger_at",
+      "winger_su",
+      "advanced_playmaker_at",
+      "advanced_playmaker_su",
+      "inside_forward_at",
+      "inside_forward_su",
+      "trequartista_at",
+      "wide_target_man_at",
+      "wide_target_man_su",
+      "raumdeuter_at",
+      "inverted_winger_at",
+      "inverted_winger_su"
+    ]
+  },
+  "AMC": {
+    "name": "Attacking Midfielder Centre",
+    "roles": [
+      "attacking_midfielder_at",
+      "attacking_midfielder_su",
+      "advanced_playmaker_at",
+      "advanced_playmaker_su",
+      "trequartista_at",
+      "enganche_su",
+      "shadow_striker_at"
+    ]
+  },
+  "AMR": {
+    "name": "Attacking Midfielder Right",
+    "roles": [
+      "winger_at",
+      "winger_su",
+      "advanced_playmaker_at",
+      "advanced_playmaker_su",
+      "inside_forward_at",
+      "inside_forward_su",
+      "trequartista_at",
+      "wide_target_man_at",
+      "wide_target_man_su",
+      "raumdeuter_at",
+      "inverted_winger_at",
+      "inverted_winger_su"
+    ]
+  },
+  "ML": {
+    "name": "Midfielder Left",
+    "roles": [
+      "wide_midfielder_au",
+      "wide_midfielder_at",
+      "wide_midfielder_su",
+      "wide_midfielder_de",
+      "winger_at",
+      "winger_su",
+      "defensive_winger_su",
+      "defensive_winger_de",
+      "wide_playmaker_at",
+      "wide_playmaker_su",
+      "inverted_winger_at",
+      "inverted_winger_su"
+    ]
+  },
+  "CM": {
+    "name": "Central Midfielder",
+    "roles": [
+      "central_midfielder_au",
+      "central_midfielder_at",
+      "central_midfielder_su",
+      "central_midfielder_de",
+      "deep_lying_playmaker_su",
+      "deep_lying_playmaker_de",
+      "box_to_box_midfielder_su",
+      "advanced_playmaker_at",
+      "advanced_playmaker_su",
+      "ball_winning_midfielder_su",
+      "ball_winning_midfielder_de",
+      "roaming_playmaker_su",
+      "mezzala_at",
+      "mezzala_su",
+      "carrilero_su"
+    ]
+  },
+  "MR": {
+    "name": "Midfielder Right",
+    "roles": [
+      "wide_midfielder_au",
+      "wide_midfielder_at",
+      "wide_midfielder_su",
+      "wide_midfielder_de",
+      "winger_at",
+      "winger_su",
+      "defensive_winger_su",
+      "defensive_winger_de",
+      "wide_playmaker_at",
+      "wide_playmaker_su",
+      "inverted_winger_at",
+      "inverted_winger_su"
+    ]
+  },
+  "WBL": {
+    "name": "Wing Back Left",
+    "roles": [
+      "wing_back_au",
+      "wing_back_at",
+      "wing_back_su",
+      "wing_back_de",
+      "complete_wing_back_at",
+      "complete_wing_back_su",
+      "inverted_wing_back_au",
+      "inverted_wing_back_at",
+      "inverted_wing_back_su",
+      "inverted_wing_back_de"
+    ]
+  },
+  "DM": {
+    "name": "Defensive Midfielder",
+    "roles": [
+      "defensive_midfielder_su",
+      "defensive_midfielder_de",
+      "deep_lying_playmaker_su",
+      "deep_lying_playmaker_de",
+      "ball_winning_midfielder_su",
+      "ball_winning_midfielder_su",
+      "anchor_man_de",
+      "half_back_de",
+      "regista_su",
+      "roaming_playmaker_su"
+    ]
+  },
+  "WBR": {
+    "name": "Wing Back Right",
+    "roles": [
+      "wing_back_au",
+      "wing_back_at",
+      "wing_back_su",
+      "wing_back_de",
+      "complete_wing_back_at",
+      "complete_wing_back_su",
+      "inverted_wing_back_au",
+      "inverted_wing_back_at",
+      "inverted_wing_back_su",
+      "inverted_wing_back_de"
+    ]
+  },
+  "DL": {
+    "name": "Defender Left",
+    "roles": [
+      "full_back_au",
+      "full_back_at",
+      "full_back_su",
+      "full_back_de",
+      "wing_back_au",
+      "wing_back_at",
+      "wing_back_su",
+      "wing_back_de",
+      "no_nonsense_full_back_de",
+      "complete_wing_back_at",
+      "complete_wing_back_su",
+      "inverted_wing_back_au",
+      "inverted_wing_back_at",
+      "inverted_wing_back_su",
+      "inverted_wing_back_de"
+    ]
+  },
+  "DC": {
+    "name": "Defender Centre",
+    "roles": [
+      "central_defender_co",
+      "central_defender_st",
+      "central_defender_de",
+      "ball_playing_defender_co",
+      "ball_playing_defender_st",
+      "ball_playing_defender_de",
+      "no_nonsense_centre_back_co",
+      "no_nonsense_centre_back_st",
+      "no_nonsense_centre_back_de"
+    ]
+  },
+  "DR": {
+    "name": "Defender Right",
+    "roles": [
+      "full_back_au",
+      "full_back_at",
+      "full_back_su",
+      "full_back_de",
+      "wing_back_au",
+      "wing_back_at",
+      "wing_back_su",
+      "wing_back_de",
+      "no_nonsense_full_back_de",
+      "complete_wing_back_at",
+      "complete_wing_back_su",
+      "inverted_wing_back_au",
+      "inverted_wing_back_at",
+      "inverted_wing_back_su",
+      "inverted_wing_back_de"
+    ]
+  },
+  "GK": {
+    "name": "Goalkeeper",
+    "roles": [
+      "goalkeeper_de",
+      "sweeper_keeper_at",
+      "sweeper_keeper_su",
+      "sweeper_keeper_de"
+    ]
+  }
+}

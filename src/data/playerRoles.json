@@ -1,0 +1,346 @@
+{
+    "advanced_forward_at": {
+        "name": "Advanced Forward (At)",
+        "weights": "00222000001002010201000200012110010100000000000"
+    },
+    "complete_forward_at": {
+        "name": "Complete Forward (At)",
+        "weights": "00222021001002020201000201112211012100000000000"
+    },
+    "complete_forward_su": {
+        "name": "Complete Forward (Su)",
+        "weights": "00212022002002020202000201212211012100000000000"
+    },
+    "deep_lying_forward_at": {
+        "name": "Deep Lying Forward (At)",
+        "weights": "00112000002002010202010202100010001000000000000"
+    },
+    "deep_lying_forward_su": {
+        "name": "Deep Lying Forward (Su)",
+        "weights": "00012000002002010202010202100010001000000000000"
+    },
+    "poacher_at": {
+        "name": "Poacher (At)",
+        "weights": "00021010000001020201000200001000000000000000000"
+    },
+    "false_nine_su": {
+        "name": "False Nine (Su)",
+        "weights": "00212000002002010202010201202210000000000000000"
+    },
+    "trequartista_at": {
+        "name": "Trequarista (At)",
+        "weights": "00212000002002010202020200202110000000000000000"
+    },
+    "pressing_forward_at": {
+        "name": "Pressing Forward (At)",
+        "weights": "00011000000000222111000202022110021200000000000"
+    },
+    "pressing_forward_su": {
+        "name": "Pressing Forward (Su)",
+        "weights": "00001000001000222112000102022110021200000000000"
+    },
+    "pressing_forward_de": {
+        "name": "Pressing Forward (De)",
+        "weights": "00001000000000222112000002022110021200000000000"
+    },
+    "target_man_at": {
+        "name": "Target Man (At)",
+        "weights": "00021020000000112201000201000022002000000000000"
+    },
+    "target_man_su": {
+        "name": "Target Man (Su)",
+        "weights": "00011020000000112101000102000022002000000000000"
+    },
+    "attacking_midfielder_at": {
+        "name": "Attacking Midfielder (At)",
+        "weights": "00212002002002020102020200100100000000000000000"
+    },
+    "attacking_midfielder_su": {
+        "name": "Attacking Midfielder (Su)",
+        "weights": "00102002002002020102020200100100000000000000000"
+    },
+    "advanced_playmaker_at": {
+        "name": "Advanced Playmaker (At)",
+        "weights": "00202000002002010202010202201100000000000000000"
+    },
+    "advanced_playmaker_su": {
+        "name": "Advanced Playmaker (Su)",
+        "weights": "00102000002002010202010202200100000000000000000"
+    },
+    "enganche_su": {
+        "name": "Enganche (Su)",
+        "weights": "00222000001001020211000200012110010100000000000"
+    },
+    "shadow_striker_at": {
+        "name": "Shadow Striker (At)",
+        "weights": "00222000001001020211000200012110010100000000000"
+    },
+    "winger_at": {
+        "name": "Winger (At)",
+        "weights": "02201000001002010000010200002100020000000000000"
+    },
+    "winger_su": {
+        "name": "Winger (Su)",
+        "weights": "02201000001002000000000200012100020100000000000"
+    },
+    "inverted_winger_at": {
+        "name": "Inverted Winger (At)",
+        "weights": "01201001002002010101010200102200010000000000000"
+    },
+    "inverted_winger_su": {
+        "name": "Inverted Winger (Su)",
+        "weights": "01201001002002000101000200112100010100000000000"
+    },
+    "inside_forward_at": {
+        "name": "Inside Forward (At)",
+        "weights": "00222001001002010100010200002220010000000000000"
+    },
+    "inside_forward_su": {
+        "name": "Inside Forward (Su)",
+        "weights": "00212001002002010100010200102220010000000000000"
+    },
+    "raumdeuter_at": {
+        "name": "Raumdeuter (At)",
+        "weights": "00021000000001020022000200011020000102000000000"
+    },
+    "wide_target_man_at": {
+        "name": "Wide Target Man (At)",
+        "weights": "00021020000000112201000201000022002000000000000"
+    },
+    "wide_target_man_su": {
+        "name": "Wide Target Man (Su)",
+        "weights": "00011020000000112101000102000022002000000000000"
+    },
+    "mezzala_at": {
+        "name": "Mezzala (At)",
+        "weights": "00211001002002010102010200222010000100000000000"
+    },
+    "mezzala_su": {
+        "name": "Mezzala (Su)",
+        "weights": "00101001000012010102000200122010020100000000000"
+    },
+    "deep_lying_playmaker_su": {
+        "name": "Deep Lying Playmaker (Su)",
+        "weights": "00002000002002010202000102210010000000000000000"
+    },
+    "deep_lying_playmaker_de": {
+        "name": "Deep Lying Playmaker (De)",
+        "weights": "00002000002012010002000012220010000002000000000"
+    },
+    "box_to_box_midfielder_su": {
+        "name": "Box To Box Midfielder (Su)",
+        "weights": "00111001002021110101000212021010011200000000000"
+    },
+    "roaming_playmaker_su": {
+        "name": "Roaming Playmaker (Su)",
+        "weights": "00102001002002020212000212222110010200000000000"
+    },
+    "central_midfielder_au": {
+        "name": "Central Midfielder (Au)",
+        "weights": "00002000002021010112000102110000000100000000000"
+    },
+    "central_midfielder_at": {
+        "name": "Central Midfielder (At)",
+        "weights": "00002001002011010102000201111000000100000000000"
+    },
+    "central_midfielder_su": {
+        "name": "Central Midfielder (Su)",
+        "weights": "00002000002021010112000102110000000100000000000"
+    },
+    "central_midfielder_de": {
+        "name": "Central Midfielder (De)",
+        "weights": "00001000011021110122000022010000000100000000000"
+    },
+    "carrilero_su": {
+        "name": "Carrilero (Su)",
+        "weights": "00001000002021010112000122120000000200000000000"
+    },
+    "ball_winning_midfielder_su": {
+        "name": "Ball Winning Midfielder (Su)",
+        "weights": "00000000011020222010000002020100011100000000000"
+    },
+    "ball_winning_midfielder_de": {
+        "name": "Ball Winning Midfielder (De)",
+        "weights": "00000000010020222010000012020100011100000000000"
+    },
+    "wide_playmaker_at": {
+        "name": "Wide Playmaker (At)",
+        "weights": "00202000002002010202010202201100000000000000000"
+    },
+    "wide_playmaker_su": {
+        "name": "Wide Playmaker (Su)",
+        "weights": "00102000002002000202000102200100000000000000000"
+    },
+    "defensive_winger_su": {
+        "name": "Defensive Winger (Su)",
+        "weights": "02101000011012110111000212021000000200000000000"
+    },
+    "defensive_winger_de": {
+        "name": "Defensive Winger (De)",
+        "weights": "01101000010012120011000222021000000200000000000"
+    },
+    "wide_midfielder_au": {
+        "name": "Wide Midfielder (Au)",
+        "weights": "01001000002021010112000112120000000200000000000"
+    },
+    "wide_midfielder_at": {
+        "name": "Wide Midfielder (At)",
+        "weights": "02002000002011010102000102120000000200000000000"
+    },
+    "wide_midfielder_su": {
+        "name": "Wide Midfielder (Su)",
+        "weights": "01001000002021010112000112120000000200000000000"
+    },
+    "wide_midfielder_de": {
+        "name": "Wide Midfielder (De)",
+        "weights": "01001000012021010122000022020000000100000000000"
+    },
+    "regista_su": {
+        "name": "Regista (Su)",
+        "weights": "00102001002002010202020202200010000000000000000"
+    },
+    "segundo_volante_at": {
+        "name": "Segundo Volante (At)",
+        "weights": "00021002012020020111000220021010021200000000000"
+    },
+    "segundo_volante_su": {
+        "name": "Segundo Volante (Su)",
+        "weights": "00011001022020010011000220021010021201000000000"
+    },
+    "anchor_man_de": {
+        "name": "Anchor Man (De)",
+        "weights": "00000000020020020122000021000000001000000000000"
+    },
+    "half_back_de": {
+        "name": "Half Back (De)",
+        "weights": "00000010021020121121000022020001001200000000000"
+    },
+    "defensive_midfielder_su": {
+        "name": "Defensive Midfielder (Su)",
+        "weights": "00001000011020120121000022020000001200000000000"
+    },
+    "defensive_midfielder_de": {
+        "name": "Defensive Midfielder (De)",
+        "weights": "00000000011020120121000022020000001200000000000"
+    },
+    "wing_back_au": {
+        "name": "Wing Back (Au)",
+        "weights": "02201000021021010011000212022100010200000000000"
+    },
+    "wing_back_at": {
+        "name": "Wing Back (At)",
+        "weights": "02201000011022010011010212022100020200000000000"
+    },
+    "wing_back_su": {
+        "name": "Wing Back (Su)",
+        "weights": "02201000021021010011000212022100010200000000000"
+    },
+    "wing_back_de": {
+        "name": "Wing Back (De)",
+        "weights": "01101000021021020011000122022100010200000000000"
+    },
+    "complete_wing_back_at": {
+        "name": "Complete Wing Back (At)",
+        "weights": "02202000002012010102020202022110020200000000000"
+    },
+    "complete_wing_back_su": {
+        "name": "Complete Wing Back (Su)",
+        "weights": "02202000002012010102010202022110020200000000000"
+    },
+    "inverted_wing_back_au": {
+        "name": "Inverted Wing Back (Au)",
+        "weights": "00101000022021010112000212021100000200000000000"
+    },
+    "inverted_wing_back_at": {
+        "name": "Inverted Wing Back (At)",
+        "weights": "00201001022022010112010212022100010200000000000"
+    },
+    "inverted_wing_back_su": {
+        "name": "Inverted Wing Back (Su)",
+        "weights": "00101000022021010112000212021100000200000000000"
+    },
+    "inverted_wing_back_de": {
+        "name": "Inverted Wing Back (De)",
+        "weights": "00101000022021020012000122021100000100000000000"
+    },
+    "no_nonsense_centre_back_co": {
+        "name": "No Nonsense Centre Back (Co)",
+        "weights": "00000010020020021020000020000001021000000000000"
+    },
+    "no_nonsense_centre_back_st": {
+        "name": "No Nonsense Centre Back (St)",
+        "weights": "00000020010020212010000020000002000000000000000"
+    },
+    "no_nonsense_centre_back_de": {
+        "name": "No Nonsense Centre Back (De)",
+        "weights": "00000020020020111010000020000002012000000000000"
+    },
+    "central_defender_co": {
+        "name": "Central Defender (Co)",
+        "weights": "00000010020020021122000020000001021000000000000"
+    },
+    "central_defender_st": {
+        "name": "Central Defender (St)",
+        "weights": "00000020010020212112000020000002002000000000000"
+    },
+    "central_defender_de": {
+        "name": "Central Defender (De)",
+        "weights": "00000020020020111111000020000002012000000000000"
+    },
+    "ball_playing_defender_co": {
+        "name": "Ball Playing Defender (Co)",
+        "weights": "00001010022021021222000020100001021000000000000"
+    },
+    "ball_playing_defender_st": {
+        "name": "Ball Playing Defender (St)",
+        "weights": "00001020012021212212000020100002002000000000000"
+    },
+    "ball_playing_defender_de": {
+        "name": "Ball Playing Defender (De)",
+        "weights": "00001020022021111211000020100002012000000000000"
+    },
+    "libero_at": {
+        "name": "Libero (At)",
+        "weights": "00202011022021021222020022201111021100000000000"
+    },
+    "libero_su": {
+        "name": "Libero (Su)",
+        "weights": "00102010022021021222010022200111021100000000000"
+    },
+    "no_nonsense_full_back_de": {
+        "name": "No Nonsense Full Back (De)",
+        "weights": "00000010020020121010000021000000002000000000000"
+    },
+    "full_back_au": {
+        "name": "Full Back (Au)",
+        "weights": "01100000021021020121000022020000010100000000000"
+    },
+    "full_back_at": {
+        "name": "Full Back (At)",
+        "weights": "02101000011021020111000122021100020200000000000"
+    },
+    "full_back_su": {
+        "name": "Full Back (Su)",
+        "weights": "01100000021021020121000022020000010100000000000"
+    },
+    "full_back_de": {
+        "name": "Full Back (De)",
+        "weights": "01000000021020020121000021000000010100000000000"
+    },
+    "sweeper_keeper_at": {
+        "name": "Sweeper Keeper (At)",
+        "weights": "00001000001000020221000020101200000012111220221"
+    },
+    "sweeper_keeper_su": {
+        "name": "Sweeper Keeper (Su)",
+        "weights": "00001000001000020221000020101200000012101220221"
+    },
+    "sweeper_keeper_de": {
+        "name": "Sweeper Keeper (De)",
+        "weights": "00001000001000020121000020101200000012101220211"
+    },
+    "goalkeeper_de": {
+        "name": "Goalkeeper (De)",
+        "weights": "00000000000000010021000020000200000022202210201"
+    }
+}
