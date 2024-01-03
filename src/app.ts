@@ -69,7 +69,6 @@ function StartServer(): void {
 
   /** Healthcheck */
   router.get('/ping', (req: Request, res: Response) => {
-    console.log(res);
     res.status(200).json({ message: 'pong' });
   });
 

@@ -1,0 +1,34 @@
+{
+    "Fgn": {
+        "name": "Foreign",
+        "color": "#cccccc"
+    },
+    "Frt": {
+        "name": "Free Transfer",
+        "color": ""
+    },
+    "HGN": {
+        "name": "Homegrown",
+        "color": ""
+    },
+    "HGC": {
+        "name": "Homegrown Club",
+        "color": ""
+    },
+    "Inj": {
+        "name": "Injured",
+        "color": ""
+    },
+    "Loa": {
+        "name": "Available for Loan",
+        "color": ""
+    },
+    "Lst": {
+        "name": "Transfer Listed",
+        "color": ""
+    },
+    "Req": {
+        "name": "Request To Leave",
+        "color": ""
+    }
+}
